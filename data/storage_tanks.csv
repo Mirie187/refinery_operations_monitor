@@ -1,0 +1,6 @@
+tank_id,product,capacity_m3,current_level_m3,status
+T-01,Petrol,10000,6700,Available
+T-02,Diesel,10000,8200,Available
+T-03,Kerosene,8000,5400,Available
+T-04,LPG,5000,4700,Available
+T-05,Jet Fuel,8000,3600,Available
