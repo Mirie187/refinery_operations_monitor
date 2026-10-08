@@ -1,6 +1,0 @@
-unit,temperature_c,pressure_bar,flow_rate_m3h,status
-Distillation A,365,4.2,82,Running
-Cracking B,510,8.7,61,Running
-Hydrotreating C,340,5.1,73,Running
-Reforming D,420,3.9,90,Running
-Blending E,285,2.8,65,Running
